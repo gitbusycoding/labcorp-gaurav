@@ -27,7 +27,7 @@ Employee:
 ↑ hourly
 
 /**
-  Hourly employees accumulate 15 vacation days during the work year.
+  Salaried employees accumulate 15 vacation days during the work year.
  */
 ↑ salaried
 
